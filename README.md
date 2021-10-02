@@ -15,5 +15,5 @@ print(text)
 
 >"... update the interface to easily understand the values expected from the user."
 
-[Loot]<a.quest>]
+[Loot](<a.quest>)
 ![Melted Crayons](images/melted_crayon.webp)
